@@ -1,3 +1,3 @@
 # New-Data-analyst
 ## testproject
-the new journy to repository.
+the new journey to the repository.
